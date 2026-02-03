@@ -125,3 +125,18 @@
 # print(type(e), "e=", e)
 
 # -----------------------------------------
+
+# import datetime
+# x=datetime.datetime.now()
+# print(x, x.day, x.month, x.year, x.hour, x.minute, x.second)
+# y=datetime.date(1999,12,6)
+# print(y, y.day, y.month, y.year)
+# z=datetime.time(23,11,22)
+# print(z, z.hour, z.minute, z.second)
+
+# -----------------------------------------
+
+# x=input("Please fill something:5")
+# print(x, type(x))
+
+# -----------------------------------------

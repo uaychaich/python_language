@@ -1,0 +1,2 @@
+def HelloYoda():
+    return "HelloYoda"
