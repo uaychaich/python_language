@@ -1,10 +1,20 @@
 class Person:
+    """
+    Docstring for Person
+    Person naja
+    """
     numberofeye=2
     def __init__(self,name,salary=0):
         self.name = name
         self.salary=salary
     
     def tax(self,taxrate):
+        """
+        Docstring for tax
+        
+        :param self: Self naja
+        :param taxrate: taxrate naja
+        """
         return self.salary*taxrate
     
     def __str__(self):

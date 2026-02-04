@@ -34,13 +34,21 @@
 
 #-------------------------------------------
 
-# def func5(x,*data):
+# def func5(x:int,y:int=3)->int:
+#     return x+y
+
+# a = func5(5,7)
+# print(a)
+
+#-------------------------------------------
+
+# def func6(x,*data):
 #     print(f"x is {x}")
 #     print(type(data))
 #     for y in data:
 #         print(y)
 
-# func5('Uay',5,8,20,"Yoda")
+# func6('Uay',5,8,20,"Yoda")
 
 #-------------------------------------------
 
