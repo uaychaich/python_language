@@ -159,3 +159,14 @@
 # print(x.display)
 
 #----------------------------------------------
+
+# import enum
+# class Color(enum.Enum):
+#     RED=1
+#     GREEN=2
+#     BLUE=3
+
+# x=Color.GREEN
+# print(x, x.name, x.value)
+
+#----------------------------------------------

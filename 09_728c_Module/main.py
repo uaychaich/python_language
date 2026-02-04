@@ -30,6 +30,7 @@
 # import UayPackage
 # print(UayPackage.UayModule10.HelloUay())
 # print(UayPackage.UayModule20.HelloYoda())
+# print(UayPackage.version)
 
 # ---------------------------------------
 
